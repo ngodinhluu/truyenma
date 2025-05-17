@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8" />
+    <title>Bóng Đêm Kỳ Bí</title>
+    <link rel="stylesheet" href="../style.css" />
+</head>
+<body>
+    <header>
+        <h1>Bóng Đêm Kỳ Bí</h1>
+        <nav>
+            <a href="../index.html">&larr; Về Trang Chủ</a>
+        </nav>
+    </header>
+    <main>
+        <article>
+            <p>Bóng tối không chỉ là thiếu ánh sáng, mà còn là nơi những linh hồn lang thang...</p>
+            <p>Chương 1: Đêm không ngủ...</p>
+            <p>...</p>
+        </article>
+    </main>
+    <footer>
+        <p>© 2025 Thư Viện Truyện Ma.</p>
+    </footer>
+</body>
+</html>
