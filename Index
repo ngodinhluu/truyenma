@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Hành Trình Xuyên Không Của Minh</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Hành Trình Xuyên Không Của Minh</h1>
+            <p class="author">Tác giả: AI Sáng Tạo</p>
+            <p class="description">
+                Một cậu sinh viên tỉnh dậy ở một thế giới lạ, nơi mọi thứ đều kỳ ảo và nguy hiểm rình rập.
+                Liệu cậu có thể sống sót và tìm đường trở về?
+            </p>
+            <a class="start-button" href="chapter1.html">📖 Bắt đầu đọc</a>
+        </header>
+    </div>
+</body>
+</html>
