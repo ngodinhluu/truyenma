@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8" />
+    <title>Ngôi Nhà Ma Ám</title>
+    <link rel="stylesheet" href="../style.css" />
+</head>
+<body>
+    <header>
+        <h1>Ngôi Nhà Ma Ám</h1>
+        <nav>
+            <a href="../index.html">&larr; Về Trang Chủ</a>
+        </nav>
+    </header>
+    <main>
+        <article>
+            <p>Ngôi nhà bỏ hoang chứa những bí mật kinh hoàng mà không ai dám hé lộ...</p>
+            <p>Chương 1: Tiếng động lạ trong đêm...</p>
+            <p>...</p>
+        </article>
+    </main>
+    <footer>
+        <p>© 2025 Thư Viện Truyện Ma.</p>
+    </footer>
+</body>
+</html>
